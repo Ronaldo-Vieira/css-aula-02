@@ -1,0 +1,9 @@
+#titulo{
+    text-align: center;
+}
+p, li{
+    font-size: 90px;
+}
+.roxo{
+    color: rgb(130, 0, 252);
+}
